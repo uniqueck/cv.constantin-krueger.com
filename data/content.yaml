@@ -10,22 +10,47 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: constantin-krueger.com
     - Icon: fas fa-map-marker-alt
-      Info: Germany
+      Info: Germany, Bruchsal
     - Icon: fab fa-github
       Info: uniqueck
 
-Profile: I am a passionate software developer with 13 years of working experience.
+Profile: Passionate technologist and product owner with 18+ years of software development expertise, combining deep technical knowledge with strategic product vision. I thrive on building innovative solutions, contributing to open source projects (AsciiDoc, Antora, FHEM), and driving DevOps excellence through automation. As a natural leader, I guide cross-functional teams and foster knowledge sharing through user groups and technical chapters. My automation expertise spans from enterprise CI/CD pipelines to personal home automation projects. Beyond technology, I serve my community as a volunteer firefighter, demonstrating the same commitment to teamwork and problem-solving under pressure. When I'm not coding or responding to calls, you'll find me crafting in my woodworking workshop, spinning vinyl records, or tinkering with smart home technologies – always applying the same attention to detail and passion for optimization that drives my professional work.
 
 Experience:
+  
   - Employer: 1&1 Telecommunication SE
     Place: Karlsruhe, DE
     Positions:
-      - Title: Senior DevOps Continuous Delivery Engineer
-        Date: September 2020 - Present
+      - Title: Product Owner
+        Date: September 2022 - Present
         Details:
           - Develop & maintain CI / CD Pipeline
           - Running Jenkins instances
         Badges: ['Python', 'Java', 'Docker', 'K8S', 'AsciiDoc', 'Antora', 'Maven', 'Spring Boot', 'Helm', 'Agile']
+      - Title: Senior DevOps Continuous Delivery Engineer
+        Date: September 2020 - August 2022
+        Details:
+          - Develop & maintain CI / CD Pipeline
+          - Running Jenkins instances
+        Badges: ['Python', 'Java', 'Docker', 'K8S', 'AsciiDoc', 'Antora', 'Maven', 'Spring Boot', 'Helm', 'Agile']
+  
+  - Employer: LOHRFINK software engineering GmbH & Co. KG
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Freelance Technical Consultant
+        Date: September 2015 - Present
+        Details:
+          - Responsible for the integration of rule based code and test case generation in CI/CD toolchains
+          - Design & develop a metadata model for IT Governement
+        Badges: ['Java', 'Maven', 'Thymeleaf', 'Rochade', 'AsciiDoc']
+      - Title: Software Engineer
+        Date: September 2013 - August 2017
+        Details:
+          - Design & develop a deployment system (DeployBa)
+          - Design & develop a tool for time tracking
+          - Design & develop a metadata model for IT Governement
+        Badges: ['Java', 'Maven', 'Thymeleaf', 'Rochade', 'AsciiDoc']
+
   - Employer: Deutsche Bausparkasse Badenia AG
     Place: Karlsruhe, DE
     Positions:
@@ -87,7 +112,8 @@ Languages:
     Level: A1
 
 Diplomas:
-  - ISAQB Foundation Level (2019)
+  - ISAQB Certified Professional for Software Architecture Foundation Level (2019)
+  - ISTQB Certified Tester Foundation Level (Juli 2022)
 
 Interests:
   - FHEM
