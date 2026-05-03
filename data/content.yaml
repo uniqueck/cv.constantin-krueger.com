@@ -34,16 +34,14 @@ Experience:
           - Contribute actively to language standardization user groups
           - Serve as a member of the Gauge Support Group, standardizing Gauge-based E2E test integration in CI/CD pipelines and Jira-based pipeline run documentation
           - Serve as a member of the Enterprise Architecture Board, responsible for defining and maintaining the enterprise architecture
-        Badges: ['Jira', 'OKR', 'AsciiDoc', 'Antora', 'Agile', 'Scrum', 'Groovy', 'Jenkins', 'SonarQube', 'Gauge', 'Bee360']
-      
+        
       - Title: Senior DevOps Continuous Delivery Engineer
         Date: September 2020 - August 2022
         Details:
           - Develop and maintain CI/CD pipeline script libraries for Jenkins
           - Run and maintain Jenkins, SonarQube, and Dependency-Track instances
           - Build and maintain base Docker images for operating systems and multiple programming languages
-        Badges: ['Python', 'Java', 'Docker', 'K8S', 'AsciiDoc', 'Antora', 'Maven', 'Spring Boot', 'Helm', 'Agile']
-  
+        
   - Employer: LOHRFINK software engineering GmbH & Co. KG
     Place: Stuttgart, DE
     Positions:
@@ -52,8 +50,7 @@ Experience:
         Details:
           - Optimize source code generation in Java, Perl, and Node.js based on a rule model
           - Develop and maintain a Maven plugin that generates test cases and source code based on a rule model
-        Badges: ['Java', 'Maven', 'Node.js', 'Perl', 'Gherkin', 'Cucumber', 'Jenkins', 'GitHub Actions', 'AsciiDoc', 'Antora']
-      
+        
 
   - Employer: Deutsche Bausparkasse Badenia AG
     Place: Karlsruhe, DE
@@ -72,7 +69,6 @@ Experience:
           - Provide expertise in Lohrfink decision tables
           - Lead the architectural migration of the core banking system to a new platform based on Java and Oracle
           - Take responsibility for the Scheduler Platform Universal Controller (Stonebranch)
-        Badges: ['Java', 'Rochade', 'Oracle', 'Natural', 'z/OS', 'Agile', 'SaFe']
 
 Education:
   - Course: Diploma in Business Informatics (BA)
@@ -89,6 +85,7 @@ Skills:
       - Bash
       - Perl
       - Natural
+      - RPL
   - Family: Frameworks
     Items:
       - Spring Boot
@@ -101,8 +98,9 @@ Skills:
       - GitHub Actions
       - K8S
       - Helm
-      - PostgreSQL
-      - Oracle
+      - PostgreSQL/Oracle
+      - Maven/Gradle/npm/uv
+      - Gauge/Cypress/Cucumber
   - Family: Documentation
     Items:
       - AsciiDoc
@@ -113,9 +111,11 @@ Skills:
   - Family: Misc
     Items:
       - Clean Code
+      - Bee360
       - Domain-Driven Design
       - Behavior-Driven Design
-      - Agile
+      - Agile (Scrum, Kanban, SaFe)
+      
       
 
 Languages:
