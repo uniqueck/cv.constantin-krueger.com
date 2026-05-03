@@ -14,24 +14,34 @@ BasicInfo:
     - Icon: fab fa-github
       Info: uniqueck
 
-Profile: Passionate technologist and product owner with 18+ years of software development expertise, combining deep technical knowledge with strategic product vision. I thrive on building innovative solutions, contributing to open source projects (AsciiDoc, Antora, FHEM), and driving DevOps excellence through automation. As a natural leader, I guide cross-functional teams and foster knowledge sharing through user groups and technical chapters. My automation expertise spans from enterprise CI/CD pipelines to personal home automation projects. Beyond technology, I serve my community as a volunteer firefighter, demonstrating the same commitment to teamwork and problem-solving under pressure. When I'm not coding or responding to calls, you'll find me crafting in my woodworking workshop, spinning vinyl records, or tinkering with smart home technologies – always applying the same attention to detail and passion for optimization that drives my professional work.
+Profile: Passionate technologist and product owner with 18+ years of software development experience, combining deep technical expertise with strategic product vision. I build innovative solutions, contribute to open source projects (AsciiDoc, Antora, FHEM), and drive DevOps excellence through automation. As a natural leader, I guide cross-functional teams and foster knowledge sharing through user groups and technical chapters. My automation expertise spans enterprise CI/CD pipelines as well as personal home automation projects. Beyond technology, I serve my community as a volunteer firefighter, demonstrating the same commitment to teamwork and problem-solving under pressure. When I am not coding or responding to calls, I spend time in my woodworking workshop, listening to vinyl records, or tinkering with smart home technologies—always applying the same attention to detail and passion for optimization that shape my professional work.
 
 Experience:
   
   - Employer: 1&1 Telecommunication SE
     Place: Karlsruhe, DE
     Positions:
-      - Title: Product Owner
+      - Title: Product Owner CI/CD Platform & DevPortal
         Date: September 2022 - Present
         Details:
-          - Develop & maintain CI / CD Pipeline
-          - Running Jenkins instances
-        Badges: ['Python', 'Java', 'Docker', 'K8S', 'AsciiDoc', 'Antora', 'Maven', 'Spring Boot', 'Helm', 'Agile']
+          - Develop a next-generation CD application as a successor to Jenkins
+          - Own and evolve the central CI/CD platform (Jenkins, SonarQube, Dependency-Track)
+          - Own and evolve the central DevPortal
+          - Drive the standardization of CI pipelines through a recipe-based approach
+          - Drive the standardization of CD pipelines through YAML-based pipeline configuration
+          - Implement CI/CD pipelines using Groovy-based Jenkins shared libraries
+          - Lead the Technology Lifecycle Management Board
+          - Contribute actively to language standardization user groups
+          - Serve as a member of the Gauge Support Group, standardizing Gauge-based E2E test integration in CI/CD pipelines and Jira-based pipeline run documentation
+          - Serve as a member of the Enterprise Architecture Board, responsible for defining and maintaining the enterprise architecture
+        Badges: ['Jira', 'OKR', 'AsciiDoc', 'Antora', 'Agile', 'Scrum', 'Groovy', 'Jenkins', 'SonarQube', 'Gauge', 'Bee360']
+      
       - Title: Senior DevOps Continuous Delivery Engineer
         Date: September 2020 - August 2022
         Details:
-          - Develop & maintain CI / CD Pipeline
-          - Running Jenkins instances
+          - Develop and maintain CI/CD pipeline script libraries for Jenkins
+          - Run and maintain Jenkins, SonarQube, and Dependency-Track instances
+          - Build and maintain base Docker images for operating systems and multiple programming languages
         Badges: ['Python', 'Java', 'Docker', 'K8S', 'AsciiDoc', 'Antora', 'Maven', 'Spring Boot', 'Helm', 'Agile']
   
   - Employer: LOHRFINK software engineering GmbH & Co. KG
@@ -40,16 +50,10 @@ Experience:
       - Title: Freelance Technical Consultant
         Date: September 2015 - Present
         Details:
-          - Responsible for the integration of rule based code and test case generation in CI/CD toolchains
-          - Design & develop a metadata model for IT Governement
-        Badges: ['Java', 'Maven', 'Thymeleaf', 'Rochade', 'AsciiDoc']
-      - Title: Software Engineer
-        Date: September 2013 - August 2017
-        Details:
-          - Design & develop a deployment system (DeployBa)
-          - Design & develop a tool for time tracking
-          - Design & develop a metadata model for IT Governement
-        Badges: ['Java', 'Maven', 'Thymeleaf', 'Rochade', 'AsciiDoc']
+          - Optimize source code generation in Java, Perl, and Node.js based on a rule model
+          - Develop and maintain a Maven plugin that generates test cases and source code based on a rule model
+        Badges: ['Java', 'Maven', 'Node.js', 'Perl', 'Gherkin', 'Cucumber', 'Jenkins', 'GitHub Actions', 'AsciiDoc', 'Antora']
+      
 
   - Employer: Deutsche Bausparkasse Badenia AG
     Place: Karlsruhe, DE
@@ -57,29 +61,34 @@ Experience:
       - Title: Software Architect
         Date: Jan 2008 - Aug 2020
         Details:
-          - Leader & member of Software Architecture Board
-          - Organize a hacker group to share knowledge
-          - Design & develop a deployment system (DeployBa)
-          - Design & develop a tool for time tracking
-          - Design & develop a metadata model for IT Governement
-        Badges: ['Java', 'Maven', 'Thymeleaf', 'Rochade', 'AsciiDoc']
+          - Serve as a leader and member of the Software Architecture Board
+          - Organize a hacker group to foster knowledge sharing
+          - Take responsibility for the software development platform (Eclipse, Jenkins, SonarQube)
+          - Design and develop a deployment system, a time-tracking tool, and a metadata model for IT governance
+          - Develop and maintain an automated test runner for Natural on z/OS
+          - Work as an architect on several z/OS projects
+          - Develop and introduce an Enterprise Service Bus
+          - Develop a portal-based application for tariff calculation
+          - Provide expertise in Lohrfink decision tables
+          - Lead the architectural migration of the core banking system to a new platform based on Java and Oracle
+          - Take responsibility for the Scheduler Platform Universal Controller (Stonebranch)
+        Badges: ['Java', 'Rochade', 'Oracle', 'Natural', 'z/OS', 'Agile', 'SaFe']
 
 Education:
   - Course: Diploma in Business Informatics (BA)
     Place: Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe
     Date: Sep 2005 - Sep 2008
-    Details: Financial Services Management
 
 Skills:
   - Family: Programming
     Items:
-      - Java
+      - Java (Spring Boot)
       - Groovy
-      - Perl
-      - SQL
+      - Node.js
+      - Python
       - Bash
-      - Helm
-      - RPL
+      - Perl
+      - Natural
   - Family: Frameworks
     Items:
       - Spring Boot
@@ -90,16 +99,24 @@ Skills:
       - Docker
       - Jenkins
       - GitHub Actions
-      - Circle CI
       - K8S
-  - Family: Misc
+      - Helm
+      - PostgreSQL
+      - Oracle
+  - Family: Documentation
     Items:
       - AsciiDoc
-      - Clean Code
-      - Domain Driven Design
-      - Behavior Driven Design
-      - Scrum
+      - Asciidoctor
+      - Antora
+      - Reveal.js
       - Rochade (Metadata Repository)
+  - Family: Misc
+    Items:
+      - Clean Code
+      - Domain-Driven Design
+      - Behavior-Driven Design
+      - Agile
+      
 
 Languages:
   - Name: German
@@ -114,9 +131,9 @@ Languages:
 Diplomas:
   - ISAQB Certified Professional for Software Architecture Foundation Level (2019)
   - ISTQB Certified Tester Foundation Level (Juli 2022)
+  - A-CSPO Certified Scrum Product Owner (2025)
 
 Interests:
-  - FHEM
-  - Vinyl
-  - Board Games
-  - Woodworking
+  - "Vinyl"
+  - "Board Games"
+  - "Woodworking"  

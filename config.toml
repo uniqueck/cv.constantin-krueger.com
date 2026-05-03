@@ -1,5 +1,5 @@
 baseURL = "https://cv.constantin-krueger.com/"
-languageCode = "en-us"
+locale = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
 title = "Constantin Krüger CV"
