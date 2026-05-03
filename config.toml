@@ -18,5 +18,5 @@ colorRightColumnHeadingText = "#2c3e50"
 colorRightColumnBodyText = "#34495e"
 colorRightColumnIconPrimary = "#ffffff"
 colorRightColumnIconBackground = "#3498db"
-pages = 1
+pages = 2
 swapColumns = true
