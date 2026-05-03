@@ -97,10 +97,14 @@ Skills:
       - Jenkins
       - GitHub Actions
       - K8S
-      - Helm
+      - Helm/Helmfile
       - PostgreSQL/Oracle
       - Maven/Gradle/npm/uv
       - Gauge/Cypress/Cucumber
+      - Artiactory
+      - Bitbucket
+      - Grafana
+      - Prometheus
   - Family: Documentation
     Items:
       - AsciiDoc
